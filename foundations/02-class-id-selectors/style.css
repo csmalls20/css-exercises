@@ -1,4 +1,4 @@
-p {
+.odd {
   background-color: rgb(255, 172, 190);
   font-family: Verdana, "DejaVu Sans", sans-serif;
 }
@@ -8,7 +8,7 @@ p {
   font-size: 36px;
 }
 
-#third-element {
+.odd#third-element {
   font-size: 24px;
 }
 
